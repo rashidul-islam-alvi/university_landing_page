@@ -32,7 +32,7 @@ const Header = () => {
   // ];
 
   const [isModal, setIsModal] = useState(false);
-  const [quickLinkModal, setQuickLinkModal] = useState(true);
+  const [quickLinkModal, setQuickLinkModal] = useState(false);
 
   const handleMenuClick = () => {
     setIsModal((prev) => !prev);

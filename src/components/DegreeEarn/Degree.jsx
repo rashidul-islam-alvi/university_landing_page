@@ -2,7 +2,7 @@ import React from "react";
 
 const Degree = () => {
   return (
-    <div className="lg:px-[250px]  lg:relative overflow-hidden flex flex-col lg:flex-row items-center lg:mt-20 py-20">
+    <div className="lg:px-[250px]  lg:relative overflow-hidden flex flex-col my-10 lg:flex-row items-center lg:my-20">
       <div className="lg:w-[600px] w-[350px] border-2 lg:translate-x-[200px] px-5 flex flex-col justify-center lg:px-10 rounded-lg py-5 bg-[#ecc47e77]">
         <h2 className="mb-2 text-xl font-bold sm:mb-5 sm:text-3xl">
           Earn Your Degree on Our Beautiful Campuse

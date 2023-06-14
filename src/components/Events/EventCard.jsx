@@ -20,8 +20,8 @@ const EventCard = ({ event }) => {
       <div className="">
         <p className="text-[17px] text-gray-400">{event.desc}</p>
       </div>
-      <div className="mt-5">
-        <p className="text-[14px] bg-black text-white px-1 py-2 font-semibold">
+      <div className="flex items-center mt-5 text-center">
+        <p className="text-[14px] bg-black text-white  px-5 py-2 font-semibold">
           Knowledge for innovation and change
         </p>
       </div>

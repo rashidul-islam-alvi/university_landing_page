@@ -7,7 +7,7 @@ const Details = () => {
   const divStyle = "flex flex-col  items-center mb-10";
 
   return (
-    <div className="lg:h-[20vh] flex flex-col lg:flex-row items-center justify-between px-10 py-10 lg:py-0 lg:px-20  bg-[#B0CBD4]">
+    <div className="lg:h-[20vh] flex flex-col lg:flex-row items-center justify-between px-10  py-10 lg:py-0 lg:px-20  bg-[#B0CBD4]">
       <div className={divStyle}>
         <h1 className={h1Style}>3000</h1>
         <h2 className={h2Style}>Students</h2>
